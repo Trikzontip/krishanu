@@ -1,0 +1,141 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: rgb(230, 230, 224);
+}
+.intro{
+    background: url(back.jpg);
+    padding-bottom: 150px ;
+    background-size: 100% 100%;
+}
+.head{
+    font-size: 140px;
+    color: #fff;
+    text-align: center;
+    padding-top: 80px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.sub{
+    color: #fff;
+    text-align: center;
+    font-size: 22px;
+    margin-top: 20px;
+}
+.expl{
+    background: #fff;
+    width: 130px;
+    font-size: 18px;
+    text-align: center;
+    line-height: 34px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    margin-right: 50px;
+}
+.jour{
+    width: 126px;
+    font-size: 18px;
+    text-align: center;
+    line-height: 30px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    border: 2px solid #fff;
+    margin-left: 50px;
+}
+.buttonarea{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.travel{
+    text-align: center;
+    padding-top: 10px;
+    color: rgb(101, 196, 101);
+    padding-bottom: 10px;
+    
+}
+.det{
+    padding: 25px;
+    text-align: center;
+    line-height: 25px;
+    color: #111;
+    font-family: sans-serif;
+}
+.one{
+    background: #fff;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: -70px;
+    display: block;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 12px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card{
+    width: 80%;
+    background: #fff;
+    margin-top: 50px;
+    margin-left: 10%;
+}
+img{
+    width: 100%;
+}
+.cardh1{
+    margin-top: 25px;
+    margin-left: 10px;
+}
+.cardh4{
+    margin-top: 15px;
+    margin-left: 10px;
+    padding-bottom: 10px;
+}
+.cardp{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.recent{
+    background: #fff;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 50px;
+    padding: 20px;
+}
+.recentp{
+    margin-top: 15px;
+}
+.black{
+    background: #111;
+    color: #fff;
+    padding: 50px;
+    margin-top: 50px;
+}
+.bbb{
+    margin-top: 50px;
+}
+.bbbh2{
+    margin-bottom: 25px;
+}
+.bbbp{
+    margin-top: 10px;
+}
+.ccc{
+    margin-top: 50px;
+}
+.ccch2{
+    margin-bottom: 25px;
+}
+.cccp{
+    margin-top: 10px;
+}
+.foot{
+    background: #000;
+    color: #fff;
+    padding: 25px;
+    text-align: center;
+}
+.aaa{
+    text-align: center;
+
+}
+
